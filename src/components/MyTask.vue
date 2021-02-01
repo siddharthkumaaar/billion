@@ -132,6 +132,6 @@
 </template>
 <script>
 export default {
-    name:'CardBox'
+    name:'MyTask'
 }
 </script>
